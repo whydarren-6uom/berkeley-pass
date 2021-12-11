@@ -1,4 +1,4 @@
 # pass
-Forked from Mehvix/pass
-"Code is free speech"
+Forked from Mehvix/pass\n
+"Code is free speech"\n
 [pass.mehvix.com](https://pass.mehvix.com)
